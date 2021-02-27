@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Programas\\Programa 1\\Programa1\\Programa1\\Programa1.csproj": {}
+    "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Clase 3\\Programas, tarea 3\\Programa 1\\Programa1\\Programa1\\Programa1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Programas\\Programa 1\\Programa1\\Programa1\\Programa1.csproj": {
+    "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Clase 3\\Programas, tarea 3\\Programa 1\\Programa1\\Programa1\\Programa1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Programas\\Programa 1\\Programa1\\Programa1\\Programa1.csproj",
+        "projectUniqueName": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Clase 3\\Programas, tarea 3\\Programa 1\\Programa1\\Programa1\\Programa1.csproj",
         "projectName": "Programa1",
-        "projectPath": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Programas\\Programa 1\\Programa1\\Programa1\\Programa1.csproj",
+        "projectPath": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Clase 3\\Programas, tarea 3\\Programa 1\\Programa1\\Programa1\\Programa1.csproj",
         "packagesPath": "C:\\Users\\frnac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Programas\\Programa 1\\Programa1\\Programa1\\obj\\",
+        "outputPath": "C:\\Users\\frnac\\Desktop\\UMG\\Programacion 1\\Clase 3\\Programas, tarea 3\\Programa 1\\Programa1\\Programa1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\frnac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

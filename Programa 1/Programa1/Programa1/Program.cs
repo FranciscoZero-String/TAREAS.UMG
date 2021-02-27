@@ -1,39 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text.RegularExpressions;
 
-namespace programa1
-
-{ 
-    public class Program
-
-    {  
-        public static void Main(String[]args)
-
+namespace Programa1
+{
+    class Program
+    {
+        static void Main(string[] args)
         {
+            int numero;
 
-            String c;
-            Console.WriteLine("Ingrese una letra (c,C)");
-            c = Console.ReadLine();
-            if(c=="C")
+            Console.WriteLine("Ingrese cualquier numero");
+            numero = int.Parse(Console.ReadLine());
+            if (numero % 2 == 0)
             {
-                Console.Write("Es mayuscula");
+                Console.WriteLine("El numero es par");
             }
-            {
-                Console.Write("Es minuscula");
 
+            else
+            {
+                Console.WriteLine("El numero no es par");
             }
+        
         }
-
     }
-
 }
-
-
-
-
-
-
-
-
